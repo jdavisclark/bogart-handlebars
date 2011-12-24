@@ -10,7 +10,7 @@
     "dependencies": {
       "handlebars": "*",
       "bogart": ">= 0.3.36",
-      "promised-io": "latest"
+      "q": "latest"
     },
     "devDependencies": {
       "tap": "latest"
