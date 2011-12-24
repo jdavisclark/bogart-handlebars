@@ -9,7 +9,7 @@ var bogart = require('bogart'),
 	path = require('path');
 
 // This will register the 'handlebars' view engine behind the scenes.
-var handlebars = require('../lib/bogart-handlebars');
+require('../lib/bogart-handlebars');
 
 // Construct a Bogart ViewEngine using Handlebars.
 var viewEngine = bogart.viewEngine('handlebars');
