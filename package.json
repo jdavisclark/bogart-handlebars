@@ -9,7 +9,7 @@
     "directories": { "lib": "./lib" },  
     "dependencies": {
       "handlebars": "*",
-      "bogart": ">= 0.3.36",
+      "bogart": ">= 0.3.37",
       "q": "latest"
     },
     "devDependencies": {
