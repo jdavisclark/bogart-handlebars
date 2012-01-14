@@ -1,10 +1,15 @@
 {
     "name": "bogart-handlebars",
     "description": "Handlebars template engine plugin for Bogart",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "keywords": ["bogart", "handlebars", "template"],
     "author": "Davis Clark",
     "email": "jdc0589@gmail.com",
+    "homepage": "https://github.com/jdc0589/bogart-handlebars",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jdc0589/bogart-handlebars"
+    },
     "main": "./lib/bogart-handlebars",
     "directories": { "lib": "./lib" },  
     "dependencies": {
