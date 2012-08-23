@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jdc0589/bogart-handlebars.png)](http://travis-ci.org/jdc0589/bogart-handlebars)
 bogart-handlebars is a handlebars adapter for the bogart view engine.
 
 ## A note on partials and helpers
