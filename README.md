@@ -24,11 +24,11 @@ Example:
 
 Figure A, Directory Hierarchy
 
-views
-  |-layouts
-    |-_main.hbt
-  |-public
-    |-index.hbt
+    views
+      |-layouts
+        |-_main.hbt
+      |-public
+        |-index.hbt
 
 **_main.hbt** will be registered as the partial 'layouts/main'.
 
