@@ -1,6 +1,6 @@
 {
   "name": "bogart-handlebars",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Handlebars tools for Bogart",
   "main": "index.js",
   "scripts": {
