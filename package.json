@@ -17,6 +17,6 @@
     "underscore": "~1.6.0",
     "handlebars": "^4.0.5",
     "handlebars-layouts": "~0.2.0",
-    "handlebars-load-tree": "^0.9.0"
+    "handlebars-load-tree": "https://github.com/soitgoes/handlebars-load-tree.git"
   }
 }
