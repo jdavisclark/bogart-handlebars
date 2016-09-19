@@ -1,6 +1,6 @@
 {
   "name": "bogart-handlebars",
-  "version": "0.9.2",
+  "version": "0.9.4",
   "description": "Handlebars tools for Bogart",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "underscore": "~1.6.0",
-    "handlebars": "~2.0.0-alpha.2",
-    "handlebars-layouts": "~0.2.0",
-    "handlebars-load-tree": "^0.9.0"
+    "handlebars": "^4.0.5",
+    "handlebars-layouts": "=3.1.3",
+    "handlebars-load-tree": "https://github.com/soitgoes/handlebars-load-tree.git"
   }
 }
